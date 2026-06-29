@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stock Logo Quiz",
+    "description": "เดาโลโก้หุ้นสหรัฐ — ทดสอบความรู้ของคุณ!",
+    "icon": "📈",
+    "url": "http://localhost:5173",
+    "comingSoon": false
+  },
+  {
+    "name": "Who Am I?",
+    "description": "เดาว่าคนในรูปคือ CEO ของบริษัทไหน — ทดสอบความรู้ผู้บริหารหุ้นสหรัฐ!",
+    "icon": "🧑‍💼",
+    "url": "http://localhost:5174",
+    "comingSoon": false
+  }
+]
