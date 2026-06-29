@@ -4,20 +4,32 @@
     "description": "เดาโลโก้หุ้นสหรัฐ — ทดสอบความรู้ของคุณ!",
     "icon": "📈",
     "url": "https://stock-us-what-is-logo.vercel.app",
-    "comingSoon": false
+    "comingSoon": false,
+    "ideaBy": {
+      "name": "คุณจู (ic0077)",
+      "avatar": "/image/ic0077.jpg"
+    }
   },
   {
     "name": "Who Am I?",
     "description": "เดาว่าคนในรูปคือ CEO ของบริษัทไหน — ทดสอบความรู้ผู้บริหารหุ้นสหรัฐ!",
     "icon": "🧑‍💼",
     "url": "https://stock-us-who-am-i.vercel.app",
-    "comingSoon": false
+    "comingSoon": false,
+    "ideaBy": {
+      "name": "จารย์อัพ (Uppu)",
+      "avatar": "/image/uppu.jpg"
+    }
   },
   {
     "name": "What's My Brand?",
     "description": "ดูสินค้า แล้วเดาว่าเป็นของบริษัทไหนในตลาดหุ้นสหรัฐ!",
     "icon": "🛍️",
     "url": "",
-    "comingSoon": true
+    "comingSoon": true,
+    "ideaBy": {
+      "name": "คุณแน็ก (nacktheripper)",
+      "avatar": "/image/nacktheripp.jpg"
+    }
   }
 ]
