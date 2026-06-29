@@ -1,16 +1,16 @@
 [
   {
-    "name": "Stock Logo Quiz",
+    "name": "What Is Logo?",
     "description": "เดาโลโก้หุ้นสหรัฐ — ทดสอบความรู้ของคุณ!",
     "icon": "📈",
-    "url": "http://localhost:5173",
+    "url": "https://stock-us-what-is-logo.vercel.app",
     "comingSoon": false
   },
   {
     "name": "Who Am I?",
     "description": "เดาว่าคนในรูปคือ CEO ของบริษัทไหน — ทดสอบความรู้ผู้บริหารหุ้นสหรัฐ!",
     "icon": "🧑‍💼",
-    "url": "http://localhost:5174",
+    "url": "https://stock-us-who-am-i.vercel.app",
     "comingSoon": false
   }
 ]
