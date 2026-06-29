@@ -11,6 +11,7 @@ interface Game {
   comingSoon: boolean
 }
 
+
 const gameList = games as Game[]
 
 export default function App() {
@@ -68,7 +69,7 @@ export default function App() {
         <div className="max-w-3xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-5">
           {gameList.map((game) => (
             <div
-              key={game.url}
+              key={game.name}
               className={`border rounded-2xl p-6 flex flex-col gap-3 transition ${
                 game.comingSoon
                   ? 'bg-white/[0.03] border-white/5 opacity-60'

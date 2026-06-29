@@ -12,5 +12,12 @@
     "icon": "🧑‍💼",
     "url": "https://stock-us-who-am-i.vercel.app",
     "comingSoon": false
+  },
+  {
+    "name": "What's My Brand?",
+    "description": "ดูสินค้า แล้วเดาว่าเป็นของบริษัทไหนในตลาดหุ้นสหรัฐ!",
+    "icon": "🛍️",
+    "url": "",
+    "comingSoon": true
   }
 ]
