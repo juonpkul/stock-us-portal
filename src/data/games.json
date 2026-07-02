@@ -42,5 +42,16 @@
       "name": "คุณแก้ม (NoirMood)",
       "avatar": "/image/nacktheripp.jpg"
     }
+  },
+  {
+    "name": "เกมอะไรดีน้าา",
+    "description": "กำลังพัฒนาจ้าา",
+    "icon": "",
+    "url": "",
+    "comingSoon": true,
+    "ideaBy": {
+      "name": "คุณ....",
+      "avatar": "/image/nacktheripp.jpg"
+    }
   }
 ]
