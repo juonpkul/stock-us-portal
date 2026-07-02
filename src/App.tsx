@@ -66,7 +66,7 @@ export default function App() {
 
       {/* Game cards */}
       <main className="px-4 pb-16">
-        <div className="max-w-3xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-5">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {gameList.map((game) => (
             <div
               key={game.name}
