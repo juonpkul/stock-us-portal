@@ -22,13 +22,24 @@
     }
   },
   {
-    "name": "What's My Brand?",
-    "description": "ดูสินค้า แล้วเดาว่าเป็นของบริษัทไหนในตลาดหุ้นสหรัฐ!",
-    "icon": "🛍️",
+    "name": "The Wall Street SURVIVOR!!!",
+    "description": "เกมเอาชีวิตรอดในตลาดหุ้นวอลล์สตรีท!",
+    "icon": "🏆",
+    "url": "https://stockus-wallstreet-survivor.vercel.app/",
+    "comingSoon": false,
+    "ideaBy": {
+      "name": "คุณแน็ก (nacktheripper)",
+      "avatar": "/image/nacktheripp.jpg"
+    }
+  },
+  {
+    "name": "เกมอะไรดีน้าา",
+    "description": "กำลังพัฒนาจ้าา",
+    "icon": "",
     "url": "",
     "comingSoon": true,
     "ideaBy": {
-      "name": "คุณแน็ก (nacktheripper)",
+      "name": "คุณแก้ม (NoirMood)",
       "avatar": "/image/nacktheripp.jpg"
     }
   }
