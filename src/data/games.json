@@ -33,14 +33,14 @@
     }
   },
   {
-    "name": "เกมอะไรดีน้าา",
-    "description": "กำลังพัฒนาจ้าา",
-    "icon": "",
-    "url": "",
+    "name": "What Does It Do?",
+    "description": "เดาทายว่าหุ้นนี้ทำธุรกิจอะไร—ทดสอบความรู้จริงของคุณ!",
+    "icon": "🤔",
+    "url": "https://stock-us-what-does-it-do.vercel.app/",
     "comingSoon": true,
     "ideaBy": {
       "name": "คุณแก้ม (NoirMood)",
-      "avatar": "/image/nacktheripp.jpg"
+      "avatar": "/image/NoirMood.jpg"
     }
   },
   {
