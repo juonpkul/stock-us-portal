@@ -37,7 +37,7 @@
     "description": "เดาทายว่าหุ้นนี้ทำธุรกิจอะไร—ทดสอบความรู้จริงของคุณ!",
     "icon": "🤔",
     "url": "https://stock-us-what-does-it-do.vercel.app/",
-    "comingSoon": true,
+    "comingSoon": false,
     "ideaBy": {
       "name": "คุณแก้ม (NoirMood)",
       "avatar": "/image/NoirMood.jpg"
