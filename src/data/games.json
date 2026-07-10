@@ -26,7 +26,7 @@
     "description": "เกมเอาชีวิตรอดในตลาดหุ้นวอลล์สตรีท!",
     "icon": "🏆",
     "url": "https://stockus-wallstreet-survivor.vercel.app/",
-    "comingSoon": false,
+    "comingSoon": true,
     "ideaBy": {
       "name": "คุณแน็ก (nacktheripper)",
       "avatar": "/image/nacktheripp.jpg"
@@ -37,7 +37,7 @@
     "description": "เดาทายว่าหุ้นนี้ทำธุรกิจอะไร—ทดสอบความรู้จริงของคุณ!",
     "icon": "🤔",
     "url": "https://stock-us-what-does-it-do.vercel.app/",
-    "comingSoon": false,
+    "comingSoon": true,
     "ideaBy": {
       "name": "คุณแก้ม (NoirMood)",
       "avatar": "/image/NoirMood.jpg"
