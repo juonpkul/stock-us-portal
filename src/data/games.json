@@ -1,6 +1,7 @@
 [
   {
     "name": "What Is Logo?",
+    "ticker": "LOGO",
     "description": "เดาโลโก้หุ้นสหรัฐ — ทดสอบความรู้ของคุณ!",
     "icon": "📈",
     "url": "https://stock-us-what-is-logo.vercel.app",
@@ -12,6 +13,7 @@
   },
   {
     "name": "Who Am I?",
+    "ticker": "CEO",
     "description": "เดาว่าคนในรูปคือ CEO ของบริษัทไหน — ทดสอบความรู้ผู้บริหารหุ้นสหรัฐ!",
     "icon": "🧑‍💼",
     "url": "https://stock-us-who-am-i.vercel.app",
@@ -23,6 +25,7 @@
   },
   {
     "name": "The Wall Street SURVIVOR!!!",
+    "ticker": "SRVR",
     "description": "เกมเอาชีวิตรอดในตลาดหุ้นวอลล์สตรีท!",
     "icon": "🏆",
     "url": "https://stockus-wallstreet-survivor.vercel.app/",
@@ -34,6 +37,7 @@
   },
   {
     "name": "What Does It Do?",
+    "ticker": "BIZZ",
     "description": "เดาทายว่าหุ้นนี้ทำธุรกิจอะไร—ทดสอบความรู้จริงของคุณ!",
     "icon": "🤔",
     "url": "https://stock-us-what-does-it-do.vercel.app/",
@@ -45,6 +49,7 @@
   },
   {
     "name": "เกมอะไรดีน้าา",
+    "ticker": "TBA",
     "description": "กำลังพัฒนาจ้าา",
     "icon": "",
     "url": "",
