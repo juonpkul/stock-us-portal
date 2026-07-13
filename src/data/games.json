@@ -39,7 +39,7 @@
     "name": "What Does It Do?",
     "ticker": "BIZZ",
     "description": "เดาทายว่าหุ้นนี้ทำธุรกิจอะไร—ทดสอบความรู้จริงของคุณ!",
-    "icon": "🤔",
+    "icon": "🔍",
     "url": "https://stock-us-what-does-it-do.vercel.app/",
     "comingSoon": false,
     "ideaBy": {
